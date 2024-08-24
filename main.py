@@ -39,7 +39,7 @@ frame_count = 0
 start_time = time.time()
 fps = 0
 
-model = YOLO("best100epoch.pt")
+model = YOLO("100Epoch16batch.pt")
 
 def hitung_jarak(tinggi_bounding_box, focal_length_pixel, tinggi_objek_nyata):
     if tinggi_bounding_box == 0:
