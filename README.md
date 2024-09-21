@@ -8,5 +8,6 @@
 </p>
 
 ## Video
+![agungyolo](https://github.com/user-attachments/assets/cb7d43ea-688f-4ce9-a24b-5c50c62da9d3)
 https://youtu.be/inr0SE0PDJg
 
