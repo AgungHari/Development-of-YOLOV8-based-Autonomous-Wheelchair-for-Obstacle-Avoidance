@@ -9,8 +9,7 @@ Detection is performed by combining two approaches: Yolo bounding box and pose l
 Watch full video here : https://youtu.be/inr0SE0PDJg?feature=shared
 
 ## Installation
-
-
+Actually, you need an ESP32 and the wheelchair to run it.
 ```bash
   python --version
   python -m venv nama_venv
