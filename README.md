@@ -25,8 +25,7 @@ Watch full video here : https://youtu.be/inr0SE0PDJg?feature=shared
 - Grid mapping that can map all detected humans.
 - Two avoidance options: human avoidance with a route returning to the main path and multiple human avoidance with a default avoidance route.
 
-
-![LOGO](https://github.com/user-attachments/assets/65b4bfc3-7e93-4ee3-bf2f-a3f66d561f57)
+![LOGO](https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6)
 
 
 
