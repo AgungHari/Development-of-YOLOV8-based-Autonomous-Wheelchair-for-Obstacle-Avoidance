@@ -65,3 +65,10 @@ You need an ESP32 and the wheelchair to run it.
 
 - [@AgungHari](https://github.com/AgungHari)
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
