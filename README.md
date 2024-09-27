@@ -2,13 +2,13 @@
 # Development of YOLOv8-based Autonomous Wheelchair for Obstacle Avoidance (Pengembangan Kursi Roda Otonom Berbasis YOLOv8 untuk Penghindaran Obstacle). 
 
 🚀 Detection is performed by combining two approaches: Yolo bounding box and pose landmarks, where both outputs are mapped into a 10x10 grid (made with OpenCV), which serves as a reference for the wheelchair to avoid obstacles. Commands are sent from the NUC to the ESP32, which then moves the motor.
-## Demo
-
+## 🎬 Demo
 ![agungyolo](https://github.com/user-attachments/assets/cb7d43ea-688f-4ce9-a24b-5c50c62da9d3)
 
-Watch full video here : https://youtu.be/inr0SE0PDJg?feature=shared
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dinr0SE0PDJg">
 
-## Installation
+
+## 🔨 Installation
 I recommend a separate folder and venv for creating the model and the wheelchair program. for training venv setup :
 ```bash
   python --version
@@ -51,7 +51,7 @@ You need an ESP32 and the wheelchair to run it.
   pip install opencv-python
 ```
     
-## Features
+## 🍿 Features
 
 - Grid mapping that can map all detected humans.
 - Optimized for use with GPU with the help of CUDA.
@@ -62,13 +62,13 @@ You need an ESP32 and the wheelchair to run it.
 
 
 ## Authors
+<img alt="Static Badge" src="https://img.shields.io/badge/AgungHari-black?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FAgungHari">
 
-- [@AgungHari](https://github.com/AgungHari)
 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+<img alt="GitHub License" src="https://img.shields.io/github/license/AgungHari/Development-of-YOLOV8-based-Autonomous-Wheelchair-for-Obstacle-Avoidance">
 
 
 
