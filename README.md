@@ -1,4 +1,3 @@
-
 # Development of YOLOv8-based Autonomous Wheelchair for Obstacle Avoidance (Pengembangan Kursi Roda Otonom Berbasis YOLOv8 untuk Penghindaran Obstacle). 
 
 🚀 Detection is performed by combining two approaches: Yolo bounding box and pose landmarks, where both outputs are mapped into a 10x10 grid (made with OpenCV), which serves as a reference for the wheelchair to avoid obstacles. Commands are sent from the NUC to the ESP32, which then moves the motor.
@@ -9,6 +8,14 @@
 
 
 ## 🔨 Installation
+PyPi version for each framework
+
+![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
+![Ultralytics version](https://img.shields.io/badge/Ultralytics-v8.1.42-pink)
+![Tensorflow version](https://img.shields.io/badge/Tensorflow-v2.10.1-orange)
+![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-green)
+![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
+
 I recommend a separate folder and venv for creating the model and the wheelchair program. for training venv setup :
 ```bash
   python --version
