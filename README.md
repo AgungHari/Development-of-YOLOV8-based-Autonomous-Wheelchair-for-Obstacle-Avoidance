@@ -8,7 +8,7 @@
 
 
 ## 🔨 Installation
-PyPi version for each framework
+PyPi version
 
 ![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
 ![Ultralytics version](https://img.shields.io/badge/Ultralytics-v8.1.42-pink)
