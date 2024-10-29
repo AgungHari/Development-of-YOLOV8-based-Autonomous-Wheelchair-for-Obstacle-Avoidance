@@ -3,9 +3,9 @@
 # Development of YOLOv8-based Autonomous Wheelchair for Obstacle Avoidance (Pengembangan Kursi Roda Otonom Berbasis YOLOv8 untuk Penghindaran Obstacle). 
 
 ![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
-![Ultralytics version](https://img.shields.io/badge/Ultralytics-v8.1.42-pink)
+![Ultralytics version](https://img.shields.io/badge/Ultralytics-v8.1.42-red)
 ![Tensorflow version](https://img.shields.io/badge/Tensorflow-v2.10.1-orange)
-![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-green)
+![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-darkred)
 ![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
