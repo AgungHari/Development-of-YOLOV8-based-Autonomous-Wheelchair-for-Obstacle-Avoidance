@@ -1,20 +1,23 @@
 # Development of YOLOv8-based Autonomous Wheelchair for Obstacle Avoidance (Pengembangan Kursi Roda Otonom Berbasis YOLOv8 untuk Penghindaran Obstacle). 
 
-🚀 Detection is performed by combining two approaches: Yolo bounding box and pose landmarks, where both outputs are mapped into a 10x10 grid (made with OpenCV), which serves as a reference for the wheelchair to avoid obstacles. Commands are sent from the NUC to the ESP32, which then moves the motor.
-## 🎬 Demo
-![agungyolo](https://github.com/user-attachments/assets/cb7d43ea-688f-4ce9-a24b-5c50c62da9d3)
-
-<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dinr0SE0PDJg">
-
-
-## 🔨 Installation
-PyPi version
-
 ![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
 ![Ultralytics version](https://img.shields.io/badge/Ultralytics-v8.1.42-pink)
 ![Tensorflow version](https://img.shields.io/badge/Tensorflow-v2.10.1-orange)
 ![OpenCV version](https://img.shields.io/badge/OpenCV-v4.9.0.80-green)
 ![IPyKernel version](https://img.shields.io/badge/IPyKernel-v6.29.4-yellow)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+Detection is performed by combining two approaches: Yolo bounding box and pose landmarks, where both outputs are mapped into a 10x10 grid (made with OpenCV), which serves as a reference for the wheelchair to avoid obstacles. Commands are sent from the NUC to the ESP32, which then moves the motor.
+
+## Demo
+[![agungyolo](https://github.com/user-attachments/assets/cb7d43ea-688f-4ce9-a24b-5c50c62da9d3)]([https://www.youtube.com/@igstngragunghari2640](https://youtu.be/inr0SE0PDJg))
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)]([https://www.youtube.com/@igstngragunghari2640](https://youtu.be/inr0SE0PDJg))
+
+
+## Installation
 
 I recommend a separate folder and venv for creating the model and the wheelchair program. for training venv setup :
 ```bash
@@ -58,13 +61,13 @@ You need an ESP32 and the wheelchair to run it.
   pip install opencv-python
 ```
     
-## 🍿 Features
+## Features
 
 - Grid mapping that can map all detected humans.
 - Optimized for use with GPU with the help of CUDA.
 - Two avoidance options: human avoidance with a route returning to the main path and multiple human avoidance with a default avoidance route.
 
-![LOGO](https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6)
+<img src="https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6" alt="LOGO" width="300">
 
 
 
