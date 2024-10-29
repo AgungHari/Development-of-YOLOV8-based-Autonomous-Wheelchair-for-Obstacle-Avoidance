@@ -1,3 +1,5 @@
+[![universal-personal-banner1](file3.png)](https://www.agungg.com/)
+
 # Development of YOLOv8-based Autonomous Wheelchair for Obstacle Avoidance (Pengembangan Kursi Roda Otonom Berbasis YOLOv8 untuk Penghindaran Obstacle). 
 
 ![MediaPipe version](https://img.shields.io/badge/MediaPipe-v0.10.14-blue)
