@@ -66,7 +66,10 @@ You need an ESP32 and the wheelchair to run it.
 - Optimized for use with GPU with the help of CUDA.
 - Two avoidance options: human avoidance with a route returning to the main path and multiple human avoidance with a default avoidance route.
 
-<img src="https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6" alt="LOGO" width="300">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6" alt="LOGO" width="300">
+</p>
+
 
 
 
