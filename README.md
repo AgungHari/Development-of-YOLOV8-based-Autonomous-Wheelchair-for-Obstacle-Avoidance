@@ -24,9 +24,14 @@ This test involves testing the wheelchair's ability to avoid humans in real-time
 
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/inr0SE0PDJg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 Based on the test results, the following conclusions can be drawn:
+
+![TestResult](https://img.shields.io/badge/30_Test-100%_Result-Green)
+![FPS](https://img.shields.io/badge/FPS_Diff-7.029fps-red)
+![Delay](https://img.shields.io/badge/Delay-0.2494seconds-Blue)
+![Inference](https://img.shields.io/badge/Inference-139.4899ms-darkblue)
 
 - The model with the highest metrics trained with various configurations is the model with the highest mAP score at IoU 0.5, achieving 81.85%. This score is quite good for performing avoidance, as seen in the very good avoidance performance results.
 - The FPS performance test of the NUC resulted in a lower value compared to the Author's personal laptop, with a difference of 7.029 fps.
