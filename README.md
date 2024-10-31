@@ -28,9 +28,9 @@ This test involves testing the wheelchair's ability to avoid humans in real-time
 
 Based on the test results, the following conclusions can be drawn:
 
-![TestResult](https://img.shields.io/badge/30_Test-100%_Result-Green)
+![test](https://img.shields.io/badge/30_Test-100%_Results-green)
 ![FPS](https://img.shields.io/badge/FPS_Diff-7.029fps-red)
-![Delay](https://img.shields.io/badge/Delay-0.2494seconds-Blue)
+![Delay](https://img.shields.io/badge/Delay-0.2494seconds-blue)
 ![Inference](https://img.shields.io/badge/Inference-139.4899ms-darkblue)
 
 - The model with the highest metrics trained with various configurations is the model with the highest mAP score at IoU 0.5, achieving 81.85%. This score is quite good for performing avoidance, as seen in the very good avoidance performance results.
