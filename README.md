@@ -24,8 +24,6 @@ This test involves testing the wheelchair's ability to avoid humans in real-time
 
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/inr0SE0PDJg)
 
----
-
 Based on the test results, the following conclusions can be drawn:
 
 ![Test](https://img.shields.io/badge/Test_Success_Rate-100-green)
