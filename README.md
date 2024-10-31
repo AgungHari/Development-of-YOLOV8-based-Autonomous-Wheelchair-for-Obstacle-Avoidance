@@ -25,13 +25,13 @@ This test involves testing the wheelchair's ability to avoid humans in real-time
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/inr0SE0PDJg)
 
 
-"Based on the test results, the following conclusions can be drawn:
+Based on the test results, the following conclusions can be drawn:
 
 - The model with the highest metrics trained with various configurations is the model with the highest mAP score at IoU 0.5, achieving 81.85%. This score is quite good for performing avoidance, as seen in the very good avoidance performance results.
 - The FPS performance test of the NUC resulted in a lower value compared to the Author's personal laptop, with a difference of 7.029 fps.
 - The average delay obtained in the test was approximately 0.2494 seconds, with an average inference time of 139.4899 ms or 0.1394 seconds.
 - The results show that detection using bounding boxes and shoulder landmarks is more accurate at greater distances (150 cm and 100 cm), while arm landmarks are more accurate at closer distances (50 cm). The best average difference for the bounding box was 3.2 cm at a distance of 150 cm, the best average difference for the shoulder landmark was 2.2 cm at 100 cm, and the best average difference for the arm landmark was 1.93 cm at 50 cm.
-- The detection performance results were satisfying, with a 100% success rate across 30 test samples, indicating that the system is highly effective in avoiding humans."
+- The detection performance results were satisfying, with a 100% success rate across 30 test samples, indicating that the system is highly effective in avoiding humans.
 
 
 ## Installation
