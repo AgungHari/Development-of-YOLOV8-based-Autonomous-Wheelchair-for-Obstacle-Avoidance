@@ -115,10 +115,8 @@ git push origin new-feature
 - Two avoidance options: human avoidance with a route returning to the main path and multiple human avoidance with a default avoidance route.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95a6c264-e6cd-4ea9-b378-208966d44ba6" alt="LOGO" width="300">
+  <img src="./logo.svg" alt="LOGO" width="300">
 </p>
-
-
 
 
 ## Authors
