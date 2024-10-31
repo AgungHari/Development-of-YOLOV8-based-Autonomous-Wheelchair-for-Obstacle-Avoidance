@@ -15,7 +15,7 @@ Detection is performed by combining two approaches: Yolo bounding box and pose l
 
 ## Project Result
 
-This test involves testing the wheelchair's ability to avoid humans in real-time. The test will be conducted at Tower 2 ITS. The detected human remains still and does not move. The following video is a sample of the test; the full video can be accessed by clicking the video or the YouTube button below.
+This test involves testing the wheelchair's ability to avoid humans in real-time. The test will be conducted at Tower 2 ITS. The detected human remains still and does not move. The following video is a sample of the test. The full video can be accessed by clicking the video or the YouTube button below.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb7d43ea-688f-4ce9-a24b-5c50c62da9d3" alt="agungyolo" />
@@ -24,6 +24,7 @@ This test involves testing the wheelchair's ability to avoid humans in real-time
 
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtu.be/inr0SE0PDJg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 Based on the test results, the following conclusions can be drawn:
 
