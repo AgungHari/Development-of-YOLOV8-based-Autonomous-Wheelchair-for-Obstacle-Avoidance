@@ -13,6 +13,12 @@
 
 Detection is performed by combining two approaches: Yolo bounding box and pose landmarks, where both outputs are mapped into a 10x10 grid (made with OpenCV), which serves as a reference for the wheelchair to avoid obstacles. Commands are sent from the NUC to the ESP32, which then moves the motor.
 
+## Acknowledgements
+
+```bash
+  Rex Regum AgungHar!
+```
+
 ## Project Result
 
 This test involves testing the wheelchair's ability to avoid humans in real-time. The test will be conducted at Tower 2 ITS. The detected human remains still and does not move. The following video is a sample of the test. The full video can be accessed by clicking the video or the YouTube button below.
