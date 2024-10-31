@@ -62,7 +62,27 @@ You need an ESP32 and the wheelchair to run it.
   pip install ultralytics
   pip install opencv-python
 ```
-    
+
+## Contributing
+
+I am open to contributions and collaboration. If you would like to contribute, please create a pull request or contact me directly!
+- Fork this repo.
+- Create a new feature branch:
+
+```bash
+git checkout -b new-feature
+```
+
+- Commit your changes.
+```bash
+git commit -m "ver..."
+```
+
+- Push to the branch:
+```bash
+git push origin new-feature
+```
+
 ## Features
 
 - Grid mapping that can map all detected humans.
