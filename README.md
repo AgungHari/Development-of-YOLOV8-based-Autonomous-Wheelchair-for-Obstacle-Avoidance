@@ -91,7 +91,7 @@ You need an ESP32 and the wheelchair to run it.
 ## Update
 I have integrated the yolov12n model into this repository. You can use it directly by simply changing:
 ```bash
-  model = YOLO("best100epoch.pt")
+  model = YOLO("100Epoch16batch.pt")
 ```
 
 to :
