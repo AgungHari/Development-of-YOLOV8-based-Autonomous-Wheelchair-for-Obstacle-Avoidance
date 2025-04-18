@@ -88,6 +88,22 @@ You need an ESP32 and the wheelchair to run it.
   pip install opencv-python
 ```
 
+## Update
+I have integrated the yolov12n model into this repository. You can use it directly by simply changing:
+```bash
+  model = YOLO("best100epoch.pt")
+```
+
+to :
+
+```bash
+  model = YOLO("yolov12n.pt")
+```
+
+Replacing the model should improve the performance of this system.
+
+Disclaimer: I have not trained this model myself it was downloaded directly from Ultralytics.
+
 ## Contributing
 
 I am open to contributions and collaboration. If you would like to contribute, please create a pull request or contact me directly!
