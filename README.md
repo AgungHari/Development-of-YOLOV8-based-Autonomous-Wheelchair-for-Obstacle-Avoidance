@@ -102,7 +102,11 @@ to :
 
 Replacing the model should improve the performance of this system.
 
-Disclaimer: I have not trained this model myself it was downloaded directly from Ultralytics.
+Disclaimer: I have not trained this model myself it was downloaded directly from Ultralytics. if you want to train or finetune just visit:
+
+```bash
+https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb
+```
 
 ## Contributing
 
